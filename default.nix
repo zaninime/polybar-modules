@@ -6,5 +6,5 @@ in
 buildGoModule {
   name = "polybar-modules";
   src = ./.;
-  modSha256 = "1faszp9hinm6ab13rvvc20cqbjxrlf3qpid0zs1frvf4w2y9fi8q";
+  modSha256 = "1pzk6n245r7xz6lnjk41zg2n49aqs0l1a1xaw8fwbyxkmn9238dx";
 }
